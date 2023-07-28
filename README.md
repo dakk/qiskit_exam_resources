@@ -2,8 +2,11 @@
 
 My personal notebook for the IBM Qiskit Exam C1000-112
 
+https://www.ibm.com/training/certification/C0010300
 
 ## Topics
+
+Topics covered by the notebooks:
 
 [x] Construct multi-qubit quantum registers
 [x] Measure quantum circuits in classical registers
