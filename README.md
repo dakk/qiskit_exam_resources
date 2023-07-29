@@ -1,6 +1,7 @@
 # Qiskit IBM Exam resources
 
-My personal notebook for the IBM Qiskit Exam C1000-112
+My personal notebooks for the IBM Qiskit Exam C1000-112. I created two notebooks covering all the topics enumerated
+in the list written [here](https://www.ibm.com/training/certification/C0010300).
 
 https://www.ibm.com/training/certification/C0010300
 
